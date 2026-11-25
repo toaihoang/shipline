@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Shipline.Cli/Shipline.Cli.csproj" />
+    <Project Path="src/Shipline.Core/Shipline.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Shipline.Core.Tests/Shipline.Core.Tests.csproj" />
+  </Folder>
+</Solution>
